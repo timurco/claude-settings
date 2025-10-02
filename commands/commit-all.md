@@ -1,4 +1,4 @@
-Make commits using structured approach:
+Make ONE commit using structured approach:
 
 #### **Commit Structure:**
 - **Format:** Use heredoc for multiline commit messages to ensure proper line breaks
@@ -28,3 +28,7 @@ git commit -m "🐛 fix: correct gitignore corrupted entries
 - Add Node.js patterns
 - Remove duplicates"
 ```
+
+### MONDATORY 
+DON'T write at the end: 🤖 Generated and Co-Authored-By
+DON'T mention an AI participation

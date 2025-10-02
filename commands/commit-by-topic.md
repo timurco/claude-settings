@@ -44,3 +44,7 @@ git commit -m "
 
 **Rule:** Maximize files per commit by topic. Only split commits when dealing with completely unrelated changes.
 **Format:** Always use heredoc format with ` ... EOF)` to ensure proper line breaks in commit messages.
+
+
+DON'T write at the end: 🤖 Generated and Co-Authored-By
+DON'T mention an AI participation
