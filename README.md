@@ -2,6 +2,24 @@
 
 This is my personal repository ([@timurco/claude-settings](https://github.com/timurco/claude-settings.git)) where I store my Claude AI assistant settings, commands, and other configuration files.
 
+### Setup
+
+Go to User/.cluade
+
+```bash
+git init
+
+git remote add origin https://github.com/timurco/claude-settings.git
+
+# Fetch latest changes from remote
+git fetch origin
+
+# Force reset local branch to match remote branch
+git reset --hard origin/main
+```
+
+**Warning**: This will permanently delete any uncommitted local changes. Make sure to backup important work before running these commands.
+
 ## What's Inside
 
 Currently, this repository contains primarily **commands** - custom instructions and workflows I use with Claude. The repository is structured to keep everything organized and easily accessible.
