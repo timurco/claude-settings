@@ -2,7 +2,7 @@
 
 This is my personal repository ([@timurco/claude-settings](https://github.com/timurco/claude-settings.git)) where I store my Claude AI assistant settings, commands, and other configuration files.
 
-### Setup
+## Setup
 
 Go to User/.cluade
 
